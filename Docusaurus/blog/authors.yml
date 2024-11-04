@@ -21,3 +21,21 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+fathur:
+  name: Fathurrahman Kesuma Ridwan
+  title: Nasi Cumi Hitam Madura Pak Kris
+  url: https://github.com/turpatur
+  image_url: https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/104/MTA-139833904/no_brand_nasi_cumi_hitam_madura_pak_kris_full01_ogqdav64.jpg
+  page: true
+  socials:
+    github: turpatur
+
+ebi:
+  name: Arief Ridzki Darmawan
+  title: Ebi
+  url: https://github.com/ebiyo
+  image_url: https://hock.id/cdn/shop/articles/Hero_Ebi_Furai_1512x.jpg?v=1606147227
+  page: true
+  socials:
+    github: ebiyo
